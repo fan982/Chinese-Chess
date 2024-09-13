@@ -1,0 +1,1 @@
+gcc src/type.c src/move.c src/utils.c main.c -o main -O3
